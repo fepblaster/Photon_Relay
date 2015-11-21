@@ -1,7 +1,7 @@
 {
-  "name": "relay",
-  "author": "Daniel Sullivan <mumblepins@gmail.com>",
+  "name": "Photon_Relay",
+  "author": "f3P ;-)>",
   "license": "MIT",
-  "version": "0.0.10",
-  "description": "A simple relay control library"
+  "version": "0.0.11",
+  "description": "A simple relay control library. ON, OFF, SWITCH, PULSE"
 }
