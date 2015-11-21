@@ -1,4 +1,4 @@
-#include "relay.h"
+#include "Photon_Relay.h"
  
 //
 // The constructor sets up a single relay, specified by the Pin that relay is attached to
