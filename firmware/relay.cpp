@@ -1,4 +1,4 @@
-#include "relay-lib.h"
+#include "relay.h"
  
 //
 // The constructor sets up a single relay, specified by the Pin that relay is attached to
