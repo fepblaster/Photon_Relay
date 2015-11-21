@@ -55,6 +55,22 @@ void RelayLib::toggle()
     on(); 
   }
 }
+
+// Turns the relay on. 
+void RelayLib::pulse() 
+{
+  if (relayState==HIGH) {
+    off(); 
+    delay(1000);
+    on();
+    delay(1000);
+    off();
+    
+  } else {
+    on(); delay(1000);off();
+  }
+   
+}
  
 // Returns the state of the relay (LOW/0 or HIGH/1)
 int RelayLib::state()
