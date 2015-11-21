@@ -2,6 +2,6 @@
   "name": "Photon_Relay",
   "author": "f3P ;-)>",
   "license": "MIT",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "A simple relay control library. ON, OFF, SWITCH, PULSE"
 }
